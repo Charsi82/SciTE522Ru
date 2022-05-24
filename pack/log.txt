@@ -1,0 +1,16 @@
+destroy extra_window
+~PanelWindow
+~LuaWindow
+~TEventWindow
+~PanelWindow
+~LuaWindow
+~TEventWindow
+~TWin
+~TWin
+~TWin
+destroy extra_window_splitter
+~TEventWindow
+~TWin
+~TWin
+~TWin
+~TWin
